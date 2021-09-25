@@ -37,10 +37,10 @@
 
 </br>
 
-<h1>Contact</h1>
+<h1>Network</h1>
 
-[Instagram (@luishenriquenk)](https://www.instagram.com/luishenriquenk/)
+[Instagram (@luishenriquenk)](https://www.instagram.com/luishenriquenk/) </br>
+[Linkedin](https://www.linkedin.com/in/luis-henrique-7798a7221/)
 
-[Twitter (@LuisHenriquenSi)](https://twitter.com/LuisHenriquenSi)
 
 </strong>
