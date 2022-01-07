@@ -6,7 +6,7 @@
 </br>
 
 <p>
-    I'm currently just a programming student, looking for new problems to be solved using as much technology as possible.
+    I'm currently just a programming student, looking for new problems to be solved using as much technology possible.
 </p>
 <p>
     Professional status: Just studying</br>
