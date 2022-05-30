@@ -8,7 +8,7 @@
 <p align="center">
     Em busca de novos desafios</br> 
     Nascido em belas terras Brasileiras</br> 
-    Aterrissou neste planeta em maio 2005</br>
+    Aterrissou neste planeta em maio de 2005</br>
 </p>
 </br>
 </strong>
