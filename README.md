@@ -39,7 +39,7 @@
     <h3 align="center">Python/Pygame</h3>
     <p align="center"> Usando Python e sua poderosa biblioteca Pygame, desenvolvi o que na minha opinião é o meu projeto mais divertido. O 2D Game With Pygame. Por mais que seja um jogo simples com apenas alguns minutos de gameplay, durante seu desenvolvimento foi possivel adquirir muitos conhecimentos atráves da prática usando a linguagem Python.</p></br>
     <p align="center">
-        <a href="https://github.com/LuisHenriqueDaSilv/AMultiplayerTicTacToeWithSocketIO">
+        <a href="https://github.com/LuisHenriqueDaSilv/2dgamewithpygame">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueDaSilv&repo=2dgamewithpygame&theme=dracula" />
         </a>
     </p>
