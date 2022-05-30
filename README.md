@@ -23,8 +23,6 @@
 <h1 align="center">Linguagens, ferramentas e habilidades</h1>
 <p align="center">Atualmente focado em desenvolvimento Web fullstack, já usei as seguintes tecnologias em projetos pessoais:</p>
 </strong>
-
-</br>
 </br>
 <div>
     <h3 align="center">Javascript/SocketIo</h3>
