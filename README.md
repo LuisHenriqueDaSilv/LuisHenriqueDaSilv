@@ -24,9 +24,20 @@
 <p align="center">Atualmente focado em desenvolvimento Web fullstack, já usei as seguintes tecnologias em projetos pessoais:</p>
 </strong>
 </br>
+</br>
+<div>
+    <h3 align="center">Javascript/React Native</h3>
+    <p align="center">Usando React native, desenvolvi um dos aplicativos mais importantes para mim, o Organeje, aplicativo desenvolvido para uso próprio no dia a dia. Criei este aplicativo para me ajudar a organizar minhas tarefas diárias, por isso, coloquei o que considero as opções mais importantes em um aplicativo de organização e listas.</p></br>
+    <p align="center">
+        <a href="https://github.com/LuisHenriqueDaSilv/organeje">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueDaSilv&repo=organeje&theme=dracula" />
+        </a>
+    </p>
+
+</div>
 <div>
     <h3 align="center">Python/Pygame</h3>
-    <p align="center"> Usando Python e sua poderosa biblioteca Pygame, desenvolvi o que na minha opinião é o meu projeto mais divertido. O 2D Game With Pygame. Por mais que seja um jogo simples com apenas alguns minutos de gameplay, durante seu desenvolvimento foi possivel adquirir muitos conhecimentos atráves da prática usando a linguagem Python.</p></br>
+    <p align="center"> Usando Python e sua poderosa biblioteca Pygame, desenvolvi o que na minha opinião é o meu projeto mais divertido, o 2D Game With Pygame. Por mais que seja um jogo simples com apenas alguns minutos de gameplay, consegui entender parte da lógica por trás de diversos conceitos do Python.</p></br>
     <p align="center">
         <a href="https://github.com/LuisHenriqueDaSilv/2dgamewithpygame">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueDaSilv&repo=2dgamewithpygame&theme=dracula" />
