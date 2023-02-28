@@ -21,11 +21,11 @@
 
 
 <strong>
-<h1 align="center">Redes Sociais</h1>
+<h1 align="center">Networking</h1>
 <p align="center">Para contato direto, utilize os seguintes meios:</p>
 </strong>
 
-<strong>Email:</strong> <a target=”_blank” href="mailto:luishenriquen14@gmail.com">luishenriquen14@gmail.com</a></br>
+<strong>Linkedin:</strong> <a target=”_blank” href="linkedin.com/in/luishenriquedasilv">luishenriquedasilv</a></br>
 <strong>Instagram:</strong> <a target=”_blank” href="https://www.instagram.com/luishenri.silva/">@luishenri.silva</a>
 
 </div>
