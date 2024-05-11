@@ -22,19 +22,16 @@
     <img  height="45px" src="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/blob/main/images/git.png?raw=true" alt="git"/>
     <img  height="45px" src="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/blob/main/images/linux.png?raw=true" alt="linux"/>
 </div>
-</br>
-</br>
-
 <div align="center" justify="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueDaSilv&theme=dracula&exclude_repo=ArduinoProjects&layout=compact)](https://github.com/LuisHenriqueDaSilv/github-readme-stats)
-
-</n>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHenriqueDaSilv&theme=dracula&show_icons=true)](https://github.com/LuisHenriqueDaSilv/github-readme-stats)
 </div>
 
 ## Entre em contato
-<strong>Linkedin:</strong> <a target=”_blank” href="linkedin.com/in/luishenriquedasilv">luishenriquedasilv</a></br>
-<strong>Instagram:</strong> <a target=”_blank” href="https://www.instagram.com/luishenri.silva/">@luishenri.silva</a></br>
-<strong>Email: </strong> <a target=”_blank” href="mailto:luishenriquen14@gmail.com">luishenriquen14@gmail.com</a>
+
+<div> 
+  <a href="https://instagram.com/luishenri.silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luishenriquen14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luishenriquedasilv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
