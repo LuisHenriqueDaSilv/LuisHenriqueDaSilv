@@ -23,7 +23,8 @@
     <img  height="45px" src="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/blob/main/images/linux.png?raw=true" alt="linux"/>
 </div>
 <div align="center" justify="center">
-
+</br>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueDaSilv&theme=dracula&exclude_repo=ArduinoProjects&layout=compact)](https://github.com/LuisHenriqueDaSilv/github-readme-stats)
 </div>
 
