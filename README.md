@@ -3,7 +3,7 @@
 <p><strong>Bacharelando em Ciência da Computação na Universidade de Brasilia (UnB)</strong></p>
 <p>"A ciência de hoje é a tecnologia de amanhã." -Edward Teller</p>
 </br>
-<p>Sempre disposto a explorar novas áreas, adquirir novas experiências e conhecimentos. <strong>atualmente focado em desenvolvimento web FullStack, utilizando Java e JavaScript.</strong>
+<p>Sempre disposto a explorar novas áreas, adquirir novas experiências e conhecimentos. <strong>Atualmente focado em desenvolvimento web FullStack, utilizando Java e JavaScript.</strong>
 </p>
 </div>
 <div align="center">
