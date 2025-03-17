@@ -1,14 +1,3 @@
-<!-- <div align="center">
-<h1>Hi there! </h1>
-</div>
-<strong>
-
-- <a href="https://isc-tools.vercel.app/">ISCTools</a> / <a href="https://github.com/LuisHenriqueDaSilv/ISCTools">Repo ISCTools</a>
-- <a href="https://github.com/LuisHenriqueDaSilv/BeecrowdSolutions-C">BeecrowdSolutions-C</a>
-- <a href="https://github.com/LuisHenriqueDaSilv/BeecrowdSolutions-C">LeetCodeSolutions-Java</a>
-</strong>
-</div> -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/output/pacman-contribution-graph.svg">
@@ -29,8 +18,6 @@
 - <strong>🤔 - Sempre me interessei em entender como a tecnologia funciona por baixo dos panos;</strong>
 - <strong>🤖 - Fascinado por como a tecnologia torna a minha vida e a de todos os outros mais fácil; </strong>
 - <strong>🌱 - No meu tempo livre, gosto de praticar esportes ao ar livre;</strong>
-</br>
-</br>
 
 ## Minha Stack
 <div align="left">
