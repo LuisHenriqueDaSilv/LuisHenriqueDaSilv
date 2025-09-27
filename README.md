@@ -17,7 +17,6 @@
 - <strong>🧑‍💻 - Me interesso e estudo sobre programação desde os 14 anos;</strong>
 - <strong>🤔 - Sempre me interessei em entender como a tecnologia funciona por baixo dos panos;</strong>
 - <strong>🤖 - Fascinado por como a tecnologia torna a minha vida e a de todos os outros mais fácil; </strong>
-- <strong>🌱 - No meu tempo livre, gosto de praticar esportes ao ar livre;</strong>
 
 ## Minha Stack
 <div align="left">
