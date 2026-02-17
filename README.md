@@ -11,52 +11,114 @@
 <p><strong>Bacharelando em Ciência da Computação na UnB.</strong></p>
 </div>
 
-## Um Pouco Sobre Mim
-- <strong>🎓 - Interessado em Ciência da Computação para entender como as coisas funcionam e usar isso para resolver problemas e criar novas soluções;</strong> 
-- <strong>🖥️ - Atualmente, estudando desenvolvimento web full stack com Java e JavaScript;</strong>
-- <strong>🧑‍💻 - Me interesso e estudo sobre programação desde os 14 anos;</strong>
-- <strong>🤔 - Sempre me interessei em entender como a tecnologia funciona por baixo dos panos;</strong>
-- <strong>🤖 - Fascinado por como a tecnologia torna a minha vida e a de todos os outros mais fácil; </strong>
 
-## Minha Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+## Projetos que estou trabalhando
+<!-- START_LATEST_REPOS -->
+<table width="100%">
+  <tr>
+
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/ISCTools">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/ISCTools">ISCTools</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">O ISCTools foi desenvolvido com o intuito de auxiliar e f...</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 39<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCTools/commit/8a55713bf09301eccc4f6da745dd1ccc6917efcb" title="Merge pull request #3 from LuisHenriq...">Merge pull request #3 from LuisHenriq...</a>
+    </p>
 </div>
-</br>
-<p>🖥️ - Atualmente, estudo e utilizo <strong>Java</strong> para o desenvolvimento backend com o Framework <strong>Spring</strong>, além de usar <strong>JavaScript</strong> para o desenvolvimento FrontEnd, com soluções como Next, Vite, baseadas em React.</p>
+</td>
 
-## Outras ferramentas que uso
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/blob/main/images/css.png?raw=true" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/blob/main/images/html.png?raw=true" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/blob/main/images/c.png?raw=true" height="40" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/DeepLearningAI.DocumentAI-OCR-to-Agentic-Doc-Extraction">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/DeepLearningAI.DocumentAI-OCR-to-Agentic-Doc-Extraction">DeepLearningAI.DocumentAI-OCR-to-Agentic-Doc-Extraction</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 2<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/DeepLearningAI.DocumentAI-OCR-to-Agentic-Doc-Extraction/commit/b34900f01183225ad8ddb819cb27808e88ae5a0c" title=".">.</a>
+    </p>
 </div>
+</td>
 
-###
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/AvaliaProf-frontend">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/AvaliaProf-frontend">AvaliaProf-frontend</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 33<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/AvaliaProf-frontend/commit/4ae199c3f7e1572dc53c3caa555921f42678f24e" title="Remove redirect">Remove redirect</a>
+    </p>
+</div>
+</td>
+  </tr>
+  <tr>
+
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/YoutubePlaylistDownloader">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/YoutubePlaylistDownloader">YoutubePlaylistDownloader</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">An AI-generated YouTube playlist downloader, used in the ...</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 2<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/YoutubePlaylistDownloader/commit/7ca642013da507f91dad8a763bf272e2478d5130" title="feat: docs">feat: docs</a>
+    </p>
+</div>
+</td>
+
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/ISCToolsAI-AIPowered-Video-Speech-Extraction">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/ISCToolsAI-AIPowered-Video-Speech-Extraction">ISCToolsAI-AIPowered-Video-Speech-Extraction</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 2<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCToolsAI-AIPowered-Video-Speech-Extraction/commit/c89ae114408168667056ccba6f43881cc69826e3" title="feat: docs">feat: docs</a>
+    </p>
+</div>
+</td>
+
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
+        <img src="" width="40" height="40" alt="None" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 35<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/bb1cdd200a255a6e41968ce9a0f4db007eff302b" title="Update README.md">Update README.md</a>
+    </p>
+</div>
+</td>
+  </tr>
+</table>
+<!-- END_LATEST_REPOS -->
+
+
 
 ## Como me encontrar em outras redes
 <div align="left">
@@ -76,27 +138,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-
-## Sobre meu perfil  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueDaSilv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisHenriqueDaSilv&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2&hide=assembly,scss,html,css" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=LuisHenriqueDaSilv&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
