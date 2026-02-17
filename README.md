@@ -6,16 +6,50 @@
 
 ###
 
-<div align="center">
-<h1>Oi, eu sou o Luis H. Silva!</h1>
-<p><strong>Bacharelando em Ciência da Computação na UnB.</strong></p>
+<!-- START_PROFILE_STATS -->
+<div align="center" width="100%" height="100%">
+    <h2>📊 Estatísticas Gerais</h2>
+    <table width="100%">
+        <tr>
+            <td width="33%" align="center">
+                <h3>📦 Repositórios</h3>
+                <p style="font-size: 24px;"><strong>33</strong></p>
+            </td>
+            <td width="33%" align="center">
+                <h3>💾 Total de Commits</h3>
+                <p style="font-size: 24px;"><strong>524</strong></p>
+            </td>
+            <td width="33%" align="center">
+                <h3>🛠️ Principais Linguagens</h3>
+                <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="margin-right: 10px;" /> </div>
+            </td>
+        </tr>
+    </table>
 </div>
 
 
-## Projetos que estou trabalhando
+<!-- END_PROFILE_STATS -->
+
+## Projetos que estou trabalhando:
 <!-- START_LATEST_REPOS -->
 <table width="100%">
   <tr>
+
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 36<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/57138dfdd01422e239c3dda53775171957c161b2" title="feat: add automated readme update wit...">feat: add automated readme update wit...</a>
+    </p>
+</div>
+</td>
 
 <td width="33%">
 <div align="center">
@@ -48,6 +82,8 @@
     </p>
 </div>
 </td>
+  </tr>
+  <tr>
 
 <td width="33%">
 <div align="center">
@@ -64,8 +100,6 @@
     </p>
 </div>
 </td>
-  </tr>
-  <tr>
 
 <td width="33%">
 <div align="center">
@@ -98,43 +132,32 @@
     </p>
 </div>
 </td>
-
-<td width="33%">
-<div align="center">
-    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
-        <img src="" width="40" height="40" alt="None" />
-    </a>
-    <br/>
-    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
-    <br/>
-    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
-    <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 35<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/bb1cdd200a255a6e41968ce9a0f4db007eff302b" title="Update README.md">Update README.md</a>
-    </p>
-</div>
-</td>
   </tr>
 </table>
 <!-- END_LATEST_REPOS -->
 
 
 
+
+<!-- START_PROFILE_STATS -->
+<!-- END_PROFILE_STATS -->
+
+
 ## Como me encontrar em outras redes
-<div align="left">
+<div align="left"> 
   <a href="mailto:luishenriquen14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   </a>
   <a href="https://www.linkedin.com/in/luishenriquedasilv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
   </a>
-  <a href="https://leetcode.com/u/luishenriquedasilv/" target="_blank">
-    <img src="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/blob/main/images/leetcode.png?raw=true" height="30" alt="instagram logo"  />
+  <a href="https://leetcode.com/u/luishenriquedasilv/ " target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode badge"/>
   </a>
   <a href="https://judge.beecrowd.com/pt/profile/1063307" target="_blank">
-    <img src="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/blob/main/images/beecrowd.png?raw=true" height="30" alt="instagram logo"  />
-  </a>
+    <img src="https://img.shields.io/badge/Beecrowd-FCC032?style=for-the-badge&logo=codepen&logoColor=black" alt="beecrowd badge"/>
+  </a> 
   <a href="https://instagram.com/luishenri.silva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram badge"/>
   </a>
 </div>
