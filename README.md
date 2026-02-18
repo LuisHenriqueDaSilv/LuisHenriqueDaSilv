@@ -18,7 +18,7 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>526</strong></p>
+                <p style="font-size: 24px;"><strong>527</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
@@ -41,6 +41,22 @@
 
 <td width="33%">
 <div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 38<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/23eb00a09d80017fedca710d9a416efa135e758d" title="docs: update latest repos in README">docs: update latest repos in README</a>
+    </p>
+</div>
+</td>
+
+<td width="33%">
+<div align="center">
     <a href="https://github.com/LuisHenriqueDaSilv/oReilly.maos-a-obra-aprendizado-de-maquina-com-scikit-learn-keras-tensorflow">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook" />
     </a>
@@ -51,22 +67,6 @@
     <p align="left" style="font-size: 11px;">
         📄 <strong>Commits:</strong> 1<br/>
         📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/oReilly.maos-a-obra-aprendizado-de-maquina-com-scikit-learn-keras-tensorflow/commit/a03687ab51a768c74c1411c85b88b697d51bd20c" title="first commit">first commit</a>
-    </p>
-</div>
-</td>
-
-<td width="33%">
-<div align="center">
-    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-    </a>
-    <br/>
-    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
-    <br/>
-    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
-    <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 37<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/47bb9325b29ea25811586a0322ca7463f3311154" title="feat: add PR stats and full width layout">feat: add PR stats and full width layout</a>
     </p>
 </div>
 </td>
@@ -155,7 +155,7 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>526</strong></p>
+                <p style="font-size: 24px;"><strong>527</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
