@@ -14,11 +14,11 @@
         <tr>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>📦 Repositórios</h3>
-                <p style="font-size: 24px;"><strong>34</strong></p>
+                <p style="font-size: 24px;"><strong>35</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>549</strong></p>
+                <p style="font-size: 24px;"><strong>552</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
@@ -26,7 +26,7 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🛠️ Principais Linguagens</h3>
-                <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="margin-right: 10px;" /> </div>
+                <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right: 10px;" /> </div>
             </td>
         </tr>
     </table>
@@ -41,16 +41,16 @@
 
 <td width="33%">
 <div align="center">
-    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    <a href="https://github.com/LuisHenriqueDaSilv/IAExpertAcademy.machine_learning_data_science">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook" />
     </a>
     <br/>
-    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/IAExpertAcademy.machine_learning_data_science">IAExpertAcademy.machine_learning_data_science</a></strong>
     <br/>
     <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
     <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 60<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/f7f97ca5852350f5437fa73212fc924310cfb7c5" title="docs: update latest repos in README">docs: update latest repos in README</a>
+        📄 <strong>Commits:</strong> 1<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/IAExpertAcademy.machine_learning_data_science/commit/3323430c3fe28b09cbb0cf4393391b1fb83964dd" title="first commit">first commit</a>
     </p>
 </div>
 </td>
@@ -65,11 +65,29 @@
     <br/>
     <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Exemplos, exercicios e solução de problemas do livro "Mão...</p>
     <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 1<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/oReilly.maos-a-obra-aprendizado-de-maquina-com-scikit-learn-keras-tensorflow/commit/a03687ab51a768c74c1411c85b88b697d51bd20c" title="first commit">first commit</a>
+        📄 <strong>Commits:</strong> 2<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/oReilly.maos-a-obra-aprendizado-de-maquina-com-scikit-learn-keras-tensorflow/commit/f4b6725294011553867f8765c497acd3bd51a0ca" title="Feat: cap2">Feat: cap2</a>
     </p>
 </div>
 </td>
+
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 61<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/4fa47e4be7d8d648fdeda95c38b94b138147ad22" title="docs: update latest repos in README">docs: update latest repos in README</a>
+    </p>
+</div>
+</td>
+  </tr>
+  <tr>
 
 <td width="33%">
 <div align="center">
@@ -86,8 +104,6 @@
     </p>
 </div>
 </td>
-  </tr>
-  <tr>
 
 <td width="33%">
 <div align="center">
@@ -120,22 +136,6 @@
     </p>
 </div>
 </td>
-
-<td width="33%">
-<div align="center">
-    <a href="https://github.com/LuisHenriqueDaSilv/YoutubePlaylistDownloader">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-    </a>
-    <br/>
-    <strong><a href="https://github.com/LuisHenriqueDaSilv/YoutubePlaylistDownloader">YoutubePlaylistDownloader</a></strong>
-    <br/>
-    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">An AI-generated YouTube playlist downloader, used in the ...</p>
-    <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 2<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/YoutubePlaylistDownloader/commit/7ca642013da507f91dad8a763bf272e2478d5130" title="feat: docs">feat: docs</a>
-    </p>
-</div>
-</td>
   </tr>
 </table>
 <!-- END_LATEST_REPOS -->
@@ -151,11 +151,11 @@
         <tr>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>📦 Repositórios</h3>
-                <p style="font-size: 24px;"><strong>34</strong></p>
+                <p style="font-size: 24px;"><strong>35</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>549</strong></p>
+                <p style="font-size: 24px;"><strong>552</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
@@ -163,7 +163,7 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🛠️ Principais Linguagens</h3>
-                <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="margin-right: 10px;" /> </div>
+                <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right: 10px;" /> </div>
             </td>
         </tr>
     </table>
