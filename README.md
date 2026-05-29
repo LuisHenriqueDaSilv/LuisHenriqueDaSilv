@@ -18,7 +18,7 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>728</strong></p>
+                <p style="font-size: 24px;"><strong>730</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
@@ -49,8 +49,24 @@
     <br/>
     <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">API e agente de IA do ISCTools — plataforma de apoio às d...</p>
     <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 1<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCTools-backend/commit/249b3f210ef2e0b5416392d4ca7294ba1d76e504" title="setup">setup</a>
+        📄 <strong>Commits:</strong> 2<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCTools-backend/commit/df5783718fdfc1c18caaabec6f5a4614e2c7287b" title="feat: login/chat">feat: login/chat</a>
+    </p>
+</div>
+</td>
+
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 235<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/d827c83d55b09ea94b87641efb61bbd98e2e12c7" title="docs: update latest repos in README">docs: update latest repos in README</a>
     </p>
 </div>
 </td>
@@ -67,22 +83,6 @@
     <p align="left" style="font-size: 11px;">
         📄 <strong>Commits:</strong> 41<br/>
         📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCTools/commit/531d92f2188805a9b1ca55be3946ae185467083c" title="remove ads">remove ads</a>
-    </p>
-</div>
-</td>
-
-<td width="33%">
-<div align="center">
-    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-    </a>
-    <br/>
-    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
-    <br/>
-    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
-    <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 234<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/02156c58221769d9f8627c08078caa936e980635" title="docs: update latest repos in README">docs: update latest repos in README</a>
     </p>
 </div>
 </td>
@@ -155,7 +155,7 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>728</strong></p>
+                <p style="font-size: 24px;"><strong>730</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
