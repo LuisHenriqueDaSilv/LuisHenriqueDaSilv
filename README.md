@@ -18,11 +18,11 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>756</strong></p>
+                <p style="font-size: 24px;"><strong>775</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
-                <p style="font-size: 24px;"><strong>24</strong></p>
+                <p style="font-size: 24px;"><strong>25</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🛠️ Principais Linguagens</h3>
@@ -41,22 +41,6 @@
 
 <td width="33%">
 <div align="center">
-    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-    </a>
-    <br/>
-    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
-    <br/>
-    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
-    <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 260<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/305e406048651a7f67354f7971cebd56001526db" title="docs: update latest repos in README">docs: update latest repos in README</a>
-    </p>
-</div>
-</td>
-
-<td width="33%">
-<div align="center">
     <a href="https://github.com/LuisHenriqueDaSilv/ISCTools-backend">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
     </a>
@@ -65,8 +49,8 @@
     <br/>
     <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">API e agente de IA do ISCTools — plataforma de apoio às d...</p>
     <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 3<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCTools-backend/commit/c27d3cf5dc6402d8a2938e77973723b1728d5e86" title="Feat: rag">Feat: rag</a>
+        📄 <strong>Commits:</strong> 13<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCTools-backend/commit/fa79f7312f543a267f44d1807de1e81585aae1c6" title="fix port">fix port</a>
     </p>
 </div>
 </td>
@@ -81,8 +65,24 @@
     <br/>
     <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">O ISCTools foi desenvolvido com o intuito de auxiliar e f...</p>
     <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 41<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCTools/commit/531d92f2188805a9b1ca55be3946ae185467083c" title="remove ads">remove ads</a>
+        📄 <strong>Commits:</strong> 49<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCTools/commit/238a72a8c2a811ce62c25eef6ad5661e998577e0" title="Merge pull request #4 from LuisHenriq...">Merge pull request #4 from LuisHenriq...</a>
+    </p>
+</div>
+</td>
+
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 261<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/d527e431c638603dc93c3c13d97fa467311a8c79" title="docs: update latest repos in README">docs: update latest repos in README</a>
     </p>
 </div>
 </td>
@@ -155,11 +155,11 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>756</strong></p>
+                <p style="font-size: 24px;"><strong>775</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
-                <p style="font-size: 24px;"><strong>24</strong></p>
+                <p style="font-size: 24px;"><strong>25</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🛠️ Principais Linguagens</h3>
