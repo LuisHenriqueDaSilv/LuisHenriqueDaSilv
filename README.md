@@ -18,7 +18,7 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>838</strong></p>
+                <p style="font-size: 24px;"><strong>839</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
@@ -49,8 +49,8 @@
     <br/>
     <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
     <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 306<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/ba64723296662e738375dde7546e1507c018217c" title="docs: update latest repos in README">docs: update latest repos in README</a>
+        📄 <strong>Commits:</strong> 307<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/a6f0fb53d5b5ae2a2d49cccfe92aba1d7ffa8d7e" title="docs: update latest repos in README">docs: update latest repos in README</a>
     </p>
 </div>
 </td>
@@ -155,7 +155,7 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>838</strong></p>
+                <p style="font-size: 24px;"><strong>839</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
