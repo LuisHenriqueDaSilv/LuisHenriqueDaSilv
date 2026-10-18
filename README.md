@@ -18,15 +18,15 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>1057</strong></p>
+                <p style="font-size: 24px;"><strong>1060</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
-                <p style="font-size: 24px;"><strong>32</strong></p>
+                <p style="font-size: 24px;"><strong>33</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🛠️ Principais Linguagens</h3>
-                <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right: 10px;" /> </div>
+                <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right: 10px;" /> </div>
             </td>
         </tr>
     </table>
@@ -41,22 +41,6 @@
 
 <td width="33%">
 <div align="center">
-    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-    </a>
-    <br/>
-    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
-    <br/>
-    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
-    <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 518<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/ec154f20cc4d3b11d574306a346ee12c8f550f20" title="docs: update latest repos in README">docs: update latest repos in README</a>
-    </p>
-</div>
-</td>
-
-<td width="33%">
-<div align="center">
     <a href="https://github.com/LuisHenriqueDaSilv/ISCTools">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
     </a>
@@ -65,8 +49,24 @@
     <br/>
     <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">O ISCTools foi desenvolvido com o intuito de auxiliar e f...</p>
     <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 67<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCTools/commit/1da7c207906a1f3bedb8267ef449080c30d9a6f8" title="Merge pull request #10 from LuisHenri...">Merge pull request #10 from LuisHenri...</a>
+        📄 <strong>Commits:</strong> 69<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/ISCTools/commit/5fcfc2d41a3eed72a378b3cfb98ee3f809e3e374" title="Merge pull request #11 from LuisHenri...">Merge pull request #11 from LuisHenri...</a>
+    </p>
+</div>
+</td>
+
+<td width="33%">
+<div align="center">
+    <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    </a>
+    <br/>
+    <strong><a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv">LuisHenriqueDaSilv</a></strong>
+    <br/>
+    <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
+    <p align="left" style="font-size: 11px;">
+        📄 <strong>Commits:</strong> 519<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/e329cc378775d44aae8a937e791e0be729822e01" title="docs: update latest repos in README">docs: update latest repos in README</a>
     </p>
 </div>
 </td>
@@ -155,15 +155,15 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>1057</strong></p>
+                <p style="font-size: 24px;"><strong>1060</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
-                <p style="font-size: 24px;"><strong>32</strong></p>
+                <p style="font-size: 24px;"><strong>33</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🛠️ Principais Linguagens</h3>
-                <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right: 10px;" /> </div>
+                <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="30" height="30" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right: 10px;" /> </div>
             </td>
         </tr>
     </table>
