@@ -18,11 +18,11 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>1108</strong></p>
+                <p style="font-size: 24px;"><strong>1109</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
-                <p style="font-size: 24px;"><strong>37</strong></p>
+                <p style="font-size: 24px;"><strong>38</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🛠️ Principais Linguagens</h3>
@@ -49,8 +49,8 @@
     <br/>
     <p align="center" style="font-size: 12px; height: 40px; overflow: hidden;">Sem descrição</p>
     <p align="left" style="font-size: 11px;">
-        📄 <strong>Commits:</strong> 567<br/>
-        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/71f790eeff4e958e1238913a682637adf7fb7324" title="docs: update latest repos in README">docs: update latest repos in README</a>
+        📄 <strong>Commits:</strong> 568<br/>
+        📝 <strong>Último:</strong> <a href="https://github.com/LuisHenriqueDaSilv/LuisHenriqueDaSilv/commit/0f24b711ec9449dcf9853beebe3405282aed6c48" title="docs: update latest repos in README">docs: update latest repos in README</a>
     </p>
 </div>
 </td>
@@ -155,11 +155,11 @@
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>💾 Total de Commits</h3>
-                <p style="font-size: 24px;"><strong>1108</strong></p>
+                <p style="font-size: 24px;"><strong>1109</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🔄 Pull Requests</h3>
-                <p style="font-size: 24px;"><strong>37</strong></p>
+                <p style="font-size: 24px;"><strong>38</strong></p>
             </td>
             <td width="25%" align="center" style="text-align: center;">
                 <h3>🛠️ Principais Linguagens</h3>
